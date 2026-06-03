@@ -1,4 +1,4 @@
-<h1>Hello i am Pedro Marcelo 👋</h1>
+<h1>Hello I am Pedro Marcelo 👋</h1>
 
 <p>
 I’m a computer engineer with a strong focus on low-level programming, Linux systems, embedded development, and applied AI. I enjoy working close to the hardware—whether that means writing C for memory-constrained environments, developing Linux device drivers, or interfacing directly with system resources.
